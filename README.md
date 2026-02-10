@@ -6,3 +6,4 @@ A simple customer support agent that:
 3) Runs as a Streamlit chat UI
 
 ---
+![Fallback](images/output.png)
