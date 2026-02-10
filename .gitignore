@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Test caches
+.pytest_cache/
+
+# Logs (if you add any)
+logs/
+*.log
